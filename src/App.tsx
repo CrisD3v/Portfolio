@@ -17,9 +17,9 @@ function App() {
         <Main />
       </div>
 
-      <div className="col-span-12">
+      {/* <div className="col-span-12">
         <Footer />
-      </div>
+      </div> */}
     </div>
   );
 }
