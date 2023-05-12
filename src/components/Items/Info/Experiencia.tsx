@@ -7,6 +7,12 @@ interface Props {
 function Experiencia({ active }: Props) {
   const estudios = [
     {
+      title: "Sistegra Talento Consultores S.A.S",
+      info: "Desarrollador Full Stack",
+      date: "12-2022 - Actual.",
+      img: "https://pbs.twimg.com/profile_images/1080437718344257536/HbJ68m-r_400x400.jpg",
+    },
+    {
       title: "Comfama",
       info: "Aprendiz en desarrollo de software",
       date: "02-2022 al 07-2022",

@@ -12,23 +12,23 @@ function Descripcion() {
         </div>
         <div className="rounded-3xl pl-2 pt-1 col-span-11 bg-secondary hover:bg-gray-300">
           <p className="p-2">
-            Soy Desarrollador Full-Stack, con más de 9 meses de experiencia en
-            Desarrollo de Aplicaciones Web. Busco una oportunidad laboral donde pueda compartir y
-            aumentar mis conocimientos. Me considero una persona resolutiva,
-            colaboradora, creativa y apasionada por la programación, preparada
-            para afrontar nuevos retos.
+            Full Stack Developer con formación como Diseñador y Desarrollador Web. Experiencia
+            trabajando en NodeJS, React, Redux, SQL entre otras tecnologías del sector. Busco una
+            oportunidad laboral donde pueda compartir y aumentar mis conocimientos y crecer como profesional. Con
+            pensamiento creativo, resolución de problemas, trabajo en equipo, comunicación y
+            autonomía.
           </p>
         </div>
       </div>
       <hr />
       <div className="grid grid-cols-12">
         <div className="col-span-12 flex justify-around mt-4 text-xl">
-            <div className="flex flex-row items-center gap-2">
-              <span className="text-rose-600">
-                <BsMessenger />
-              </span>
-              <p className="text-lg">Contactame</p>
-            </div>
+          <div className="flex flex-row items-center gap-2">
+            <span className="text-rose-600">
+              <BsMessenger />
+            </span>
+            <p className="text-lg">Contactame</p>
+          </div>
           <a href="https://github.com/CrisD3v" target='_blank'>
             <div className="flex flex-row items-center gap-2">
               <span className="text-dark">

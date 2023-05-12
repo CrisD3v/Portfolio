@@ -20,7 +20,7 @@ function Panel3() {
       title: "VideoGames",
       date: "11 de octubre 2022",
       img: P1,
-      link: "https://gym-mthatwords.vercel.app/",
+      link: "https://proyect-videogames-qsqj8co23-crisd3v.vercel.app/",
     },
     {
       title: "Clima React",
@@ -32,7 +32,7 @@ function Panel3() {
       title: "LiberFit Gym",
       date: "18 de noviembre 2022",
       img: P3,
-      link: "https://liberfitpf.vercel.app/",
+      link: "https://gym-mthatwords.vercel.app/",
     },
   ];
   return (

@@ -8,16 +8,16 @@ interface Props {
 function Estudios({ active }: Props) {
   const estudios = [
     {
-      title: "Sena - Censa",
-      info: "Tecnico en desarrollo de software",
-      date: "Finalizado en 2022",
-      img: "https://lostramites.com.co/wp-content/uploads/logo-sena-fondo-naranja-300x300.jpg",
-    },
-    {
       title: "Soy Henry",
       info: "Bootcamp de Desarrollo Web Full Stack",
       date: "Finalizado en 2022",
       img: "https://assets.soyhenry.com/logoOG.png",
+    },
+    {
+      title: "Sena - Censa",
+      info: "Tecnico en desarrollo de software",
+      date: "Finalizado en 2022",
+      img: "https://lostramites.com.co/wp-content/uploads/logo-sena-fondo-naranja-300x300.jpg",
     },
   ];
   return (
